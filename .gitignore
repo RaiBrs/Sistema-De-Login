@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+
+# Arquivos de ambiente e configurações locais
+instance/
+*.sqlite3
+
+# Cache do Flask
+*.log
+
+# Arquivos de sistema
+.DS_Store
+
+# Arquivos do usuário (sensíveis)
+users.json
+
+# Editor e IDE
+.vscode/
+.idea/
+*.swp
